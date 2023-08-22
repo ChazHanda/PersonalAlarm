@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PersonalAlarm</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="button">Stop Alarms</string>
+    <string name="button2">Set Alarm</string>
+    <string name="quick_alarm">Quick Alarm</string>
+    <string name="Alarm_Value_Text"> </string>
+</resources>
