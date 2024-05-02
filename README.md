@@ -11,6 +11,9 @@
 6. the alarm notification will bring the user to a 'snooze' screen
 7. the snooze screen allows the user to either snooze the alarm for 5 minutes or turn it off
 
+<img src="SetAlarm.gif" width=250><br> 
+
+<img src="AlarmNotification.gif" width=250><br> 
 
 ## **Possible future plans**:
 
